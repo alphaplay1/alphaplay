@@ -52,6 +52,9 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/f66sYVH.png",CDMX TV (MEXICO)
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/uqdRj69.png",SBT SERRA DOURADA
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w454851786_b1000000.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/uqdRj69.png",SBT INTERIOR
 https://5a1c76baf08c0.streamlock.net/sbtinterior/89wjwhdcbc0ku3g6fydplcbi7diamzfe/playlist.m3u8
 
