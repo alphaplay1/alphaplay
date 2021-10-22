@@ -170,7 +170,28 @@ https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w3
 https://5b7f3c45ab7c2.streamlock.net:443/8042/8042/playlist.m3u8?DVR
 
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/VCi7G8L.png",WEB RADIO ALPHA GOSPEL
-http://stream.zeno.fm/1x6ghphwarruv?ALPHA_DIGITAL
+http://stream.zeno.fm/1x6ghphwarruv?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/cNgFYP3.png",RADIO TRANS MUNDIAL
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOTRANSMUNDIALAAC_SC
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/qy3rBK8.png",RADIO MARAJOARA GOSPEL
+https://www.bravecenterhost.com:8004/stream
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/NC5AbFi.png",RADIO REI DAVI
+https://ssl.nitrosom.com.br:7562/stream
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/qNjBhE0.jpg",RADIO MENSAGEM GOSPEL
+http://srv1.stmip.com:7034/;
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/rE2nljf.png",RADIO PREGAÇÃO PENTECOSTAL
+https://ssl.lscpainel.com.br:7402/;
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/CQk8YXl.png",RADIO PALAVRA DA FÉ
+http://s9.voscast.com:8224/stream
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/kJlta7K.jpg",RADIO PREGAÇÃO 24 HORAS
+http://stm45.conectastm.com:7116/stream?ALPHA_PLAY
 
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/jZu83v4.png",RADIO BRASIL FM
 http://srv47.brasilstream.com.br:8533/stream
@@ -317,8 +338,33 @@ HORAS
 https://stream.vagalume.fm/hls/14658544132100453351.m3u8
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://img.vagalume.fm/14635148092037245616/default",JAZZ 5 HORAS
 https://stream.vagalume.fm/hls/14635148092037245616.m3u8
+
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/rO9jfag.png",RÁDIO_MAANAIM
 http://radiostream01.radiomaanaim.com.br:1935/liverm/rmaac/playlist.m3u8
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/7CgNsp5.png",RÁDIO JOVEM PAN NEWS FM
+https://s02.maxcast.com.br:8082/live
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/xeVyhMf.jpg",RÁDIO GLOBO RJ
+https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/RC5lCCz.jpg",RÁDIO GLOBO JOINVILLE
+https://67809y.ha.azioncdn.net/primary/cbn_joi.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/Rn8OD93.png",RÁDIO CATVE FM - ESTÚDIO AO VIVO
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/chunklist_w693167920.m3u8
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/eLd0X4U.png",RÁDIO UIRAPURU - ESTÚDIO AO VIVO
+https://video01.logicahost.com.br/rduirapuru/rduirapuru/chunklist_w1865418311.m3u8
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/I5Rp50o.png",RADIO JOVEM PAN ARACAJU
+https://stream1.play.radio.br:8089/glomesjpa/glomesjpa/icecast.audio
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/yJHZpsr.png",RADIO MORENA FM SERRINHA
+https://stream1.play.radio.br:8089/glomesmfm/glomesmfm/icecast.audio
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/AED17j0.png",RADIO REGIONAL AM SERRINHA 
+https://play.radio.br:8089/glomesram/glomesram/icecast.audio
 
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/bCl7EEs.png",RADIO 87 FM 
 https://sv-exodo.advendns.org:20011/;
@@ -681,6 +727,12 @@ https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
 https://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/index.m3u8
 #EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.imgur.com/i0YSxsm.png",NICK JR
 https://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/video.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://i.imgur.com/QTQPegy.jpg",TELA VIVA TV
+https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w1508014130.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://i.imgur.com/tzJh0au.jpg",TV CHANNEL NETWORK
+https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/chunklist_w1577710403.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://i.imgur.com/MZZ3gm7.png",CATVE HD
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?
