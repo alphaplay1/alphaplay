@@ -54,6 +54,45 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/8mwZYMs.png",JOVEM PAN PLUTO TV
 http://xurl.es/jovempan
+
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/8mwZYMs.png",JOVEM PAN PLUTO TV
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/602e80c762306a0007179876/997452/playlist.m3u8?
+
+terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=15b0e683-b826
+
+-4e5e-85fb-3da14a390a38&deviceVersion=95.0.4638&appVersion=5.105.0-
+
+b62a54a1ce532c9291b0579779f0b19221e6d9fc&deviceType=web&deviceMake=chrome&sid=f33b1c36-40eb-11ec-8da8-
+
+0242ac110003&advertisingId=&deviceLat=-12.2337&deviceLon=-
+
+39.0656&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjE5M
+
+jdhYjYyLTBiNGEtNDk0OS1hYTk2LTZlMDA2Mzg2YjkwZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmMzNiMWMzNi00MGViLTExZ
+
+WMtOGRhOC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjQ1LjE3OC4yMDQuNTAiLCJjaXR5IjoiRmVpcmEgZGUgU2FudGFuYSIsInB
+
+vc3RhbENvZGUiOiI0NDAwMCIsImNvdW50cnkiOiJCUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi0xMi4yM
+
+zM3LCJkZXZpY2VMb24iOi0zOS4wNjU2LCJwcmVmZXJyZWRMYW5ndWFnZSI6InB0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcn
+
+Npb24iOiI5NS4wLjQ2MzgiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVm
+
+Vyc2lvbiI6IjUuMTA1LjAtYjYyYTU0YTFjZTUzMmM5MjkxYjA1Nzk3NzlmMGIxOTIyMWU2ZDlmYyIsImNsaWVudElEIjoiMTViMGU2OD
+
+MtYjgyNi00ZTVlLTg1ZmItM2RhMTRhMzkwYTM4IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiL
+
+CJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvQmFoaWEiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25
+
+zIjpmYWxzZSwiZmVhdHVyZXMiOnt9LCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjM2NDk3MDg1LCJqdGkiOiI0NDVmOWM2Zi1jMjV
+
+mLTRlMTMtYjY1My02YjBlN2ZhYTQxNDkiLCJpYXQiOjE2MzY0NjgyODUsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE
+
+6cGx1dG86ZGV2aWNlczpCUjpNVFZpTUdVMk9ETXRZamd5TmkwMFpUVmxMVGcxWm1JdE0yUmhNVFJoTXprd1lUTTQifQ.fah9yzG
+
+TpYH7wraOk8A5uasE5ja6QTldM8OCPDtgIy4
+
+
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/uqdRj69.png",SBT SERRA DOURADA
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w454851786_b1000000.m3u8
 
