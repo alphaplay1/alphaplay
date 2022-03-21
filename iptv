@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 group-title="ALPHA_PLAY_WHATSAPP_7598864-5406" tvg-logo="https://i.imgur.com/gUHg6tk.png",MAIS DE 74 MIL CANAIS
+https://i.imgur.com/8JhNCat.mp4?ALPHA_PLAY
+
+#EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/f5k4BNE.png",TV NOVO TEMPO
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/z0L9a7u.png",REDE GOSPEL BRASIL
+https://stmv1.srvif.com/redegospelbrasil/redegospelbrasil/playlist.m3u8?ALPHA_PLAY
+
+
+#EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/D2zt3sE.png",TV AVIVANDO NAÇÕES
+https://video02.kshost.com.br/edinardo2448/edinardo2448/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/qfZipxZ.png",TV FELIZ
+https://video01.logicahost.com.br/tvfeliz/tvfeliz/playlist.m3u8
+
+#EXTINF:-1 group-title="TV GOSPEL" tvg-logo="http://www.adorainp.com.br/imagens/banner.jpg",TV ADORAI NP
+http://5a57bda70564a.streamlock.net/adorainptv/adorainptv.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/kjK9dMc.png",TV VIDAS TRANSFORMADAS
+https://stmv1.srvstm.com/edvaldo7467/edvaldo7467/playlist.m3u8
+
 #EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/2IPpzh9.png",GOSPEL MUSIC TV
 http://stmv2.euroti.com.br:1935/gmusic/gmusic/playlist.m3u8
 
@@ -43,6 +65,40 @@ https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 
 #EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/evVso4t.jpg",TV PLENITUDE
 https://meupainel.top:1936/iaptd/iaptd/playlist.m3u8
+
+#EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://i.imgur.com/dBuIb1W.png",JOVEM PAN NEWS
+https://panflix.cdn.upx.com/out/v1/8db04b5b75d24204a65faeb43fc7e6a0/index.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://i.imgur.com/2zJDeES.png",RADIO JOVEM PAN NEWS
+https://17483.live.streamtheworld.com/JP_NEWSAAC.aac?ALPHA_PLAY
+
+#EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://i.imgur.com/E83474O.png",RECORD NEWS
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/hiIcbQM.png",TVE BAHIA
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/avqzmd5.png",HITS FM TV
+https://stmv1.srvsh.com.br/gilberto5815/gilberto5815/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/O8QSWcV.png",TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/BzE6oyH.png",REDE METRÓPOLE
+https://alanza.iptv2022.com/RedeMetropole-ptbr/index.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/7NbHMtJ.png",TV MAX RIO
+https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/YwRJs3r.png",TV REDEVIDA
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/BqsnHPS.png",TV NOVA NORDESTE
+https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/Lv4E6qr.png",CGTN ESPAÑOL
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/FoBQP2m.png",MILENIO TV (MEXICO)
 https://mdstrm.com/live-stream-playlist/60ec78ed46be260838e02070.m3u8
 
@@ -52,52 +108,42 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/f66sYVH.png",CDMX TV (MEXICO)
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/8mwZYMs.png",JOVEM PAN PLUTO TV
-http://xurl.es/jovempan
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/iygnkbu.png",TVCANAL SETE
+http://189.51.193.70:1935/canalsete/xpl-c7/playlist.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/8mwZYMs.png",JOVEM PAN PLUTO TV
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/602e80c762306a0007179876/997452/playlist.m3u8?
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/tR2rNIp.png",TV SERRA DOS BRINDES
+https://novo.bitstreaming.info:1936/8094/8094/playlist.m3u8?ALPHA_PLAY
 
-terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=15b0e683-b826
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/OD9Em4X.png",TV SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8?ALPHA_PLAY
 
--4e5e-85fb-3da14a390a38&deviceVersion=95.0.4638&appVersion=5.105.0-
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/9x6UHMF.png",TV UPI
+https://srv6.zcast.com.br/tvupi/tvupi/playlist.m3u8?ALPHA_PLAY
 
-b62a54a1ce532c9291b0579779f0b19221e6d9fc&deviceType=web&deviceMake=chrome&sid=f33b1c36-40eb-11ec-8da8-
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/xnzjlu1.png",ILHA BELA TV
+https://stmv3.samcast.com.br/ilhabelatv/ilhabelatv/playlist.m3u8
 
-0242ac110003&advertisingId=&deviceLat=-12.2337&deviceLon=-
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/ZkZEk9u.png",TV SIM RECORD
+https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
 
-39.0656&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjE5M
-
-jdhYjYyLTBiNGEtNDk0OS1hYTk2LTZlMDA2Mzg2YjkwZSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmMzNiMWMzNi00MGViLTExZ
-
-WMtOGRhOC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjQ1LjE3OC4yMDQuNTAiLCJjaXR5IjoiRmVpcmEgZGUgU2FudGFuYSIsInB
-
-vc3RhbENvZGUiOiI0NDAwMCIsImNvdW50cnkiOiJCUiIsImRtYSI6MCwiYWN0aXZlUmVnaW9uIjoiQlIiLCJkZXZpY2VMYXQiOi0xMi4yM
-
-zM3LCJkZXZpY2VMb24iOi0zOS4wNjU2LCJwcmVmZXJyZWRMYW5ndWFnZSI6InB0IiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcn
-
-Npb24iOiI5NS4wLjQ2MzgiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVm
-
-Vyc2lvbiI6IjUuMTA1LjAtYjYyYTU0YTFjZTUzMmM5MjkxYjA1Nzk3NzlmMGIxOTIyMWU2ZDlmYyIsImNsaWVudElEIjoiMTViMGU2OD
-
-MtYjgyNi00ZTVlLTg1ZmItM2RhMTRhMzkwYTM4IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiL
-
-CJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvQmFoaWEiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25
-
-zIjpmYWxzZSwiZmVhdHVyZXMiOnt9LCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNjM2NDk3MDg1LCJqdGkiOiI0NDVmOWM2Zi1jMjV
-
-mLTRlMTMtYjY1My02YjBlN2ZhYTQxNDkiLCJpYXQiOjE2MzY0NjgyODUsImlzcyI6ImJvb3QucGx1dG8udHYiLCJzdWIiOiJwcmk6djE
-
-6cGx1dG86ZGV2aWNlczpCUjpNVFZpTUdVMk9ETXRZamd5TmkwMFpUVmxMVGcxWm1JdE0yUmhNVFJoTXprd1lUTTQifQ.fah9yzG
-
-TpYH7wraOk8A5uasE5ja6QTldM8OCPDtgIy4
-
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/X6j7t3R.png",RADIO E TV RESENDE WEB
+https://cdn-mateus-10454.ciclano.io:1443/mateus-10454/mateus-10454/chunklist_w726637332.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/uqdRj69.png",SBT SERRA DOURADA
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w454851786_b1000000.m3u8
 
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/LXdWjGy.png",SBT TV PARAENSE (PA)
+https://streaming.portaltvparaense.com.br:50176/rtp_live/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/WlSzA5X.png",SBT TV GUAJARÁ (PA)
+https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/jqrsglW.png",SBT REDE MASSA (PR)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/uqdRj69.png",SBT INTERIOR
-https://5a1c76baf08c0.streamlock.net/sbtinterior/89wjwhdcbc0ku3g6fydplcbi7diamzfe/playlist.m3u8
+https://5a1c76baf08c0.streamlock.net/sbtinterior/0ynv6z5ll53elyvk08sirzo4xi0qp4ji/chunklist_w903719929.m3u8?ALPHA_PLAY
+
 
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/uqdRj69.png",SBT CARUARÚ
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
@@ -117,6 +163,11 @@ http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8
 http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1260675550.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/uqdRj69.png",SBT PE INTERIOR
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/Mr9iR8u.png",BAND SP HD
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1727390252.m3u8
+
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/8P56RO7.png",BAND RBA TV
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/8P56RO7.png",BAND RBA TV
@@ -181,18 +232,11 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/l2dQDv2.png",RECORD TV
 https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/E83474O.png",RECORD NEWS
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/d9NQqJw.png",TV ARACATI SD
 https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/MV5M3Fk.png",GLOBO RJ HD
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_655/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/MV5M3Fk.png",GLOBO RJ HD 2
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/MV5M3Fk.png",GLOBO RJ
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/JI0O8bS.png",GLOBO NEWS RJ
 http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/playlist.m3u8
@@ -213,10 +257,462 @@ https://5b7f3c45ab7c2.streamlock.net:443/8042/8042/playlist.m3u8
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/VCi7G8L.png",WEB RADIO ALPHA GOSPEL
 http://stream.zeno.fm/1x6ghphwarruv?ALPHA_PLAY
 
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/YDuQCqK.png",RADIO SUPER FM
+http://servidor32.brlogic.com:8200/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/rzA6q4t.png",REDE FÉ 94.9 FM
+https://redefevideo.opic.live/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/cV5Agex.png",RADIO GOSPEL 93.7 FM 
+https://ssl.xcast.com.br:7578/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/QiFTff3.png",REDE VERTICAL
+https://centova2.euroti.com.br:20028/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/i9PN1xD.png",RADIO ANTENA GOSPEL
+https://streamssl.hospedandosites.com.br/antenagospel.php?ALPHA_PLAY
+
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/5FLTRM4.jpg",RADIO VIVA 100.9 FM
+http://radio.saopaulo01.com.br:8128/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/VRZBtTR.png",RADIO MANCHETE GOSPEL
+http://stream.zeno.fm/pf4y0um7ya0uv?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/1wA6c0H.png",RADIO TAPAJÓS GOSPEL
+https://ssl.lscpainel.com.br:7688/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/5xAA6s1.png",RADIO ESTAÇAO GOSPEL FLORIANO PI
+http://stm2.lscpainel.com.br:7070/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/MJVbT9I.png",RADIO MUSICAL FM 105.7 SP
+https://9176.brasilstream.com.br/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/t5R0aMJ.png",RADIO X GOSPEL
+http://hts06.kshost.com.br:12378/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/1XFYgLf.png",RADIO GOSPEL 87.9 FM RIO VERDE
+http://shout25.crossradio.com.br:8076/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/ziIuyYk.png",RADIO GOSPEL  90.7 FM
+http://148.72.155.138:1935/gospel90/gospel90/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/qSgdwZ6.png",RADIO NOSSA GOSPEL
+http://server02.ouvir.radio.br:8070/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/GybTnWR.png",NOVA RADIO SAN FM
+https://ssl.voxhd.com.br:7862/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/hRNgZnk.png",RADIO NOVA SEMENTE
+http://streaming20.hstbr.net:8142/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/kZeqetI.png",RADIO NOVA SIÃO DIGITAL
+http://216.245.220.173:8140/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/JQLSEWV.png",RADIO NOVO SOL FM
+http://srv4.voxon.top:7262/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/4HUCnZU.png",RADIO PARANÁ GOSPEL
+http://radio.saopaulo01.com.br:9990/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/h1CItPf.png",RADIO PAZ NA WEB
+https://s45.maxcast.com.br:8118/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/jsphAuZ.png",RADIO PLAY GOSPEL 6.0
+https://ssl1.transmissaodigital.com:20084/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/OXNseRR.png",PLENITUDE WEB RADIO
+http://s02.transmissaodigital.com:7094/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/3vI7x9W.png",RADIO PORTAL ESTAÇÃO GOSPEL
+http://s01.transmissaodigital.com:6780/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/ICZqR41.png",RADIO LOUVOR REAL
+https://ssl.srvstm.com:8484/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/7gMYsAA.png",INTERNATIONAL WEB  RADIO
+https://s17.maxcast.com.br:8108/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/OonawPa.png",WEB RADIO INTERATIVA GOSPEL
+https://ssl.megadinamica.com:7036/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/w7qY9By.png",WEB RADIO IMPACTO JOVEM
+https://servidor34-2.brlogic.com:8106/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="http://www.adorainp.com.br/imagens/banner.jpg",RADIO ADORAI NP
+http://wz5.dnip.com.br/adorainp/adorainp.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/UGves3U.png",IPDL WEB RADIO
+https://casthttps1.suaradionanet.net/13274/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/7LPoKMY.png",INTER RÁDIO GETSEMANI
+http://12.stmip.net:9666/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/93jWC3N.png",INNOVA FM RADIO BRASIL
+http://s02.taaqui.org:8794/stream
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/X7TX8ss.png",RADIO IEQ MUSIC FM
+http://stream.zeno.fm/73nmndpb1mruv
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/yiyF8pz.png",RADIO FM VIDAS TRANSFORMADAS
+http://stm20.conectastm.com:8410/;
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/MLt6Hjb.png",FS WEB RADIO
+http://stream.zeno.fm/hhbrbhssrbruv
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/eqxyuKm.png",RADIO GARIMPO GOSPEL
+http://perseus.shoutca.st:8420/stream
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/wS1aTHz.png",RADIO GERAÇÃO 21
+http://stream.zeno.fm/0t88wnve21zuv
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/wO3a8na.png",RADIO GOSPEL MIX MAIS
+http://stm39.stmsrv.com:6920/;
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/BXdewby.png",RADIO GOSPEL ONE BRASIL
+https://radio.playstm.com:6682/stream?icy=http
+ 
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/HduHZ8Z.png",RADIO GOSPEL WORLD HITS
+https://servidor15-2.brlogic.com:7378/live
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/780LS6Y.png",RADIO HÁ  ESPERANÇA
+https://servidor39-5.brlogic.com:8156/live
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/N2MpQRt.png",RADIO HARPA CRISTÃ WEB
+https://stream.zeno.fm/8z99dnydyzzuv
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/sszOwJi.png",RADIO IDE GOSPEL
+http://stream.zeno.fm/hv6r0q8c5qruv
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/DRBzybm.png",RADIO IGREJA CHAMA DIVINA
+http://centova.nardele.com.br:9187/stream
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/OLxy8df.png",RADIO FONTE FM BRASÍLIA
+http://sceua.softhost.com.br:8130/stream
+
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/sB2uX05.jpg",RADIO PARAIZO 87.5 FM
+http://51.75.145.68:11756/stream
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/lDiKIc0.jpg",RÁDIO MUNDIAL AM 1180
+http://stm7.srvstm.com:9836/stream
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/sVZFtQK.jpg",RADIO SUDOESTE FM
+http://80.211.135.186:8000/sudo
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/IOiHshU.jpg",RADIO COPACABANA AM 680
+http://stream.ouveai.com.br:10720/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/mJOCXXo.jpg",RADIO RELOGIO RJ AM 580
+http://servidor35.brlogic.com:8212/live
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/uabkJWc.png",RADIO NT GOSPEL
+http://stream.clicdomain.com.br:9300/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/BAXEHze.jpg",RADIO NOVO TEMPO AM 920
+
+http://stream.novotempo.com:1935/radio/smil:rntSalvadorBA.smil/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/kbHGdt1.png",RADIO VIVA 98.3 FM
+http://stm7.betelhost.com.br:11824/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/lNxilKf.png",REDE FÉ 102.1 FM
+http://server10.srvsh.com.br:7740/stream
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/Cl7TV1r.png",RADIO VIDA MELHOR 95.7
+https://servidor32-4.brlogic.com:8480/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/DveLVlO.png",EVANGÉLICA WEB RADIO
+https://stream1.svrdedicado.org/8292/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/IrozTpC.png",RADIO PAZ 89.5 FM
+http://108.163.250.202:8968/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/3XfL7Md.png",RADIO ADONAI WEB
+https://servidor38-2.brlogic.com:8428/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/HMhEIaX.png",WEBRADIO MANANCIAL
+https://stream.zeno.fm/um3mbkdzczzuv?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/kbPED2n.png",RADIO OASIS FM
+http://stm20.xcast.com.br:11078/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/oO1xk9A.png",WEB RADIO JUVENTUDE GOSPEL
+https://stream.zeno.fm/qcvff5xz9vzuv?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/NCVHzxq.png",A ÚNICA ESPERANÇA
+http://stream.zeno.fm/6ztf2tzc7bruv?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/3v9IBCj.png",ALAGOINHAS NA GRAÇA
+https://s12.maxcast.com.br:8050/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/TVadwx1.png",RADIO ROSA DE SARON
+http://stm18.painelcast.com:6748/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/xVw1ElY.png",RADIO ATITUDE GOSPEL
+https://s14.maxcast.com.br:8044/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/6x0jHEN.png",RADIO ATOS FM FORTALEZA
+https://s.bul.tec.br:8020/32?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/gNzn2WV.png",RADIO CHAMA MISSIONÁRIA
+https://servidor19-4.brlogic.com:8376/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/7qdrdKU.png",RADIO COMPROMISSO GOSPEL
+http://live8.livemus.com.br:27044/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/qdvQk2D.png",RADIO CONECTA GOSPEL FM  
+https://player.stms.live/proxy/7558?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/A1pOgOb.png",RADIO CULTURA GOSPEL
+http://server02.ouvir.radio.br:8070/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/lWFB0Bn.png",RADIO DEUS EMANUEL
+https://stream.zeno.fm/sv6136dtszzuv?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/gTmJl0I.jpg",RADIO ESTAÇÃO GOSPEL 
+http://stm9.painelvox.com:8344/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/ebJeRdT.png",RADIO DIFUSORA GOSPEL SAT
+https://s11.w3bserver.com/radio/8070/radio.mp3?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/yIclkZh.png",RADIO PAZ 89.5 FM
+http://digital.umhost.com.br:9978/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/kZWytEV.png",RADIO SUPREMA 99.3 FM
+https://servidor30.brlogic.com:8964/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/kihlh8u.png",RADIO NOVA MUNDIAL 102.1 FM
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/xa2xbck.png",RADIO NOVO CÂNTICO 87.9 FM
+https://ssl.hdradios.net:24472/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/cGFroAd.png",RADIO NOVO DIA 89.7 FM
+https://tudo.radio/proxy/paineldj6.com.br:8128/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/5Cumgiu.png",RADIO OASIS 87.7 FM
+https://ssl.audiovox.pw:7028/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/Zl1PKIX.png",REDE EVANGELICA RORAIMA
+https://servidor34.brlogic.com:8680/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/zKSnqnn.png",RADIO PAZ 87.5 FM
+https://servidor34-1.brlogic.com:8070/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/xhiIGvt.png",RADIO PLENITUDE 105.9 FM
+https://player.painelcast.com.br/proxy/7030?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/1A3ev9B.png",RADIO PONTE  91.5 FM
+https://audio01.stmserver.com/radio/8040/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/HHCmbpp.png",RADIO POPULAR 98.7 FM
+https://5a57bda70564a.streamlock.net/popular98fm/popular98fm.stream/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/Z0UnCuU.png",RADIO SOUL VIDA 87.5 FM
+https://ssl.streamproarte.com.br:7182/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/J4KzaZN.png",RADIO PROJEÇÃO 102.5 FM
+https://ssls01.transmissaodigital.com:7644/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/n5DJcI5.png",RADIO PROVISÃO 107.1 FM
+http://stream.zeno.fm/x5p5yrxzpp8uv?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/gdd80ZA.png",RADIO REDE NAÇÃO  89.5 FM
+https://str1.streamhostpg.com.br:8060/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/ZbhkL5J.png",RADIO RENASCER 101.5 FM
+https://sonic.lestetronics.com.br:7003/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/O05EtsX.png",RADIO STUDIO GOSPEL
+https://player-ssl.kshost.com.br:11574/live
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/1sxFIPc.png",REDE FAM GOSPEL DE COMUNICAÇÃO
+http://stm4.xcast.com.br:9840/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/7A7iE6N.png",RADIO PLANET GOSPEL
+https://radio.playstm.com:7020/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/gzKeSgU.png",RADIO SUPER GOSPEL 
+https://ssl.xcast.com.br:8608/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/IyNjtqk.png",RADIO MULTISOM GOSPEL 99.3 FM
+https://servidor38-2.brlogic.com:8156/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/WhwnkF6.png",RADIO LIBERTADORA 96.3 FM
+http://svrstream4.svreua.com:8784/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/4EkEJ6m.png",RADIO ESSENCIA 104.5 FM	
+http://wz4.dnip.com.br/essenciafmhd/essenciafmhd.stream/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/NhVjG25.png",RADIO FONTE E VIDA 87 FM
+https://wms5.webradios.com.br:19034/9034?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/VqfgrOT.png",RADIO GETSEMANE 99.9 FM
+https://server3.webradios.com.br:19394/9394?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/z9zF9fB.png",RADIO GIRASSOL BH 87.9 FM
+https://player.transmissaodigital.com/proxy/6754?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/FvlUS1O.png",RADIO REGIÃO DAS AGUAS 103 FM
+https://ssl.srvstm.com:7868/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/INA5ukU.png",RADIO HARMONIA 87 FM
+https://servidor40-2.brlogic.com:8058/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/ONlh09p.png",RADIO HARMONIA MERCOSUL 100.7 FM
+https://ssl.ifantasy.com.br:13938/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/nOIiDTE.png",RADIO JERUSALÉM 107.5 FM
+https://ssl.srvstm.com:7862/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/iJup5D0.png",RADIO JOVEM GOSPEL 94.7 FM
+https://servidor26-5.brlogic.com:8038/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/dvS8Dao.png",RADIO KADOSH WEB
+https://stream1.svrdedicado.org/8084/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/sYPU89I.png",RADIO LÍRIOS DOS VALES
+https://stream1.svrdedicado.org:7037/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/FFBVj8I.png",RADIO LIBERTAÇÃO 87.5 FM
+https://servidor32-4.brlogic.com:8180/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/nznDD8a.png",RADIO LÍDER 92.1 FM
+https://appradio.app:8180/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/UfXqX0d.png",RADIO LÍRIO DOS VALES 87.5 FM
+https://casthttps1.suaradionanet.net/10777/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/PaIsFVr.png",RADIO MAIS ALEGRIA AM 1060
+https://servidor36-1.brlogic.com:8040/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/arM16r2.png",RADIO MANANCIAL 104.9 FM
+https://player-ssl.painelstream.net:9928/live/;?ALPHA_PLAY
+ 
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/RSzeZ5Q.png",RADIO MASTER 100.9 FM
+https://8456.brasilstream.com.br/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/vsoJRbe.png",RADIO MELODIA 100.5 FM
+https://stream.enetbras.com.br:10970/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/swMhxPc.png",RADIO MISSÃO AMÉRICA
+https://ssl.hdradios.net:7706/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/EyhVsb3.jpg",RADIO NORDESTE EVANGELICA
+https://radio.midiaserverbr.com/9988/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/3wNUlN8.png",NOSSA RADIO 96.5 FM
+https://servidor24.brlogic.com:8108/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/3mI5YFV.png",RADIO AMAZÔNIA VIVA 89.5 FM
+http://s03.maxcast.com.br:8112/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/6THiqFK.png",RADIO DEUS É AMOR ITAÍ SP
+https://playerservices.streamtheworld.com/api/livestream-redirect/SP_RADIOONLINE3AAC_SC?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/5pdSLRQ.png",RADIO ESPERANÇA 100.9 FM
+https://ssl.xcast.com.br:12654/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/QCRKbdr.png",RADIO DIMENSÃO 87.9 FM
+http://cast.hoost.com.br:20157/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/affqYNd.png",RADIO DA PAZ 87.9 FM
+https://servidor13.brlogic.com:7070/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/lWjBKd5.png",RADIO DA BENÇÃO 107.1 FM
+https://servidor39-2.brlogic.com:8202/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/mkkb4Rn.png",RADIO CULTURA 87.9 FM
+https://9184.brasilstream.com.br/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/LPLs0eR.png",RADIO CRUZEIRO AM 590
+https://casthttps.suaradionanet.net/10534/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/yh1GSMy.png",RADIO CRIATIVA 105 FM
+https://stream.atendemidia.com.br/radio/8435/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/5UfQ8JJ.png",RADIO CANAÃ CARUARU 105 FM 
+
+https://player.stmip.net/08/8916?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/Eb6m04b.png",RADIO ATITUDE 104 FM
+https://player.srvaudio.com.br/player-ssl/10364/;?ALPHA_PLAY
+
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/qvU6iOa.png",RADIO LOUVOR DO ALTO
+https://s08.w3bserver.com/radio/8280/radio.mp3?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/Q3kFWwg.jpg",RÁDIO PORTAL WEB GOSPEL
+http://centova2.euroti.com.br:8131/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/fPPypde.jpg",RÁDIO SINAI WEB GOSPEL
+http://10.fm5.com.br:8208/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/wXhvihT.jpg",RÁDIO BETEL RJ
+http://149.56.85.6:8028/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/mRTSsTa.png",RADIO ADORA FM
+http://stm.meuvox.top:7024/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/fRWxNWs.png",RADIO REDETV GOSPEL
+https://www.redetvgospel.com.br/live/livestream.mp3?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/yNwj8Bd.png",RADIO RG GOSPEL
+http://s1.bycast.com.br:8014/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/2rMrZXl.png",RADIO ABRAÇO GOSPEL
+https://s37.maxcast.com.br:8216/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/MHtIm0O.png",RADIO MUSICAL GOSPEL
+https://fps4.listen2myradio.com:2199/listen.php?ip=109.169.23.123&port=8344&type=s1?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/EBur2zl.png",RADIO SARA VARGINHA
+https://server01.ouvir.radio.br:8000/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/7ZdZKQR.png",RADIO SINTONIA GOSPEL
+https://ssl.srvstm.com:10086/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/jLh1YAd.png",RADIO WEB AGUA VIVA
+https://casthttps1.suaradionanet.net/13548/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/jYpujJR.png",RADIO TOP GOSPEL BRASIL
+http://s02.transmissaodigital.com:6788/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/4F2lk7V.png",WEB RADIO OMEGA FM 
+https://player-ssl.kshost.com.br:11138/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/i1JwAxI.png",RADIO ADORAÇAO 88 FM
+http://paineldj4.com.br:8493/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/tKhMNGh.png",RADIO 92 FM
+https://centova.svdns.com.br:20024/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/ETSVmtb.png",RADIO ADORE MAIS 102 FM
+https://centova.svdns.com.br:20224/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/IgV0OKH.png",RADIO SOL NASCENTE DF
+https://stmbr.com.br:5631/stream
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/YQFiTsD.png",RADIO CRISTÃ DE MARINGÁ
+https://player-ssl.kshost.com.br:12156/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/7OjgFUV.png",RADIO VITORIA FM
+http://streaming04.hstbr.net:8156/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/kgevmBo.png",RADIO EVANGELICA VIDA
+http://stm5.srvvox.com.br:7198/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/FMpyKPY.png",RADIO MISSIONARIA FILADELFIA
+http://74.63.241.108:8686/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/kiZiUIV.png",RADIO VINHA FM
+http://142.44.217.210:9852/;stream.mp3
+
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/cNgFYP3.png",RADIO TRANS MUNDIAL
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOTRANSMUNDIALAAC_SC?ALPHA_PLAY
 
-#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/qy3rBK8.png",RADIO MARAJOARA GOSPEL
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/2UDSTFI.png",RADIO MARAJOARA GOSPEL
 https://www.bravecenterhost.com:8004/stream?ALPHA_PLAY
 
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/NC5AbFi.png",RADIO REI DAVI
@@ -344,8 +840,10 @@ http://45.43.200.2:12390/;?ALPHA_PLAY
 http://162.210.196.140:5190/;stream.mp3
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/Jendphd.png",RÁDIO FM GOSPEL 103.7
 http://8.fm5.com.br:8632/;
+
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/LIUeM1A.jpg",RÁDIO BETEL FM 87.9
-https://player.xcast.com.br/proxy/12634
+http://stm3.xcast.com.br:12634/stream
+
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/du6IPwF.png",RÁDIO LOUVOR
 http://12.stmip.in:27028/stream
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/UZvrhTu.png",RÁDIO GOSPEL 87.9 FM
@@ -368,8 +866,7 @@ https://servidor39.brlogic.com:8154/live
 http://streaming11.hstbr.net:8226/live
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/6THiqFK.png",RÁDIO DEUS É AMOR
 http://playerservices.streamtheworld.com/api/livestream-redirect/SP_STUDIOC.mp3?ALPHA_PLAY
-#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/5xAA6s1.png",RADIO ESTAÇAO GOSPEL FLORIANO PI
-http://live1.livemus.com.br:27054/;
+
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/dfXfBEE.jpg",RÁDIO RESGATANDO ALMAS
 http://server02.ouvir.radio.br:8070/stream
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/EyhVsb3.jpg",RADIO NORDESTE EVANGÉLICA
@@ -382,6 +879,153 @@ https://stream.vagalume.fm/hls/14635148092037245616.m3u8
 
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/rO9jfag.png",RÁDIO_MAANAIM
 http://radiostream01.radiomaanaim.com.br:1935/liverm/rmaac/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/eYtGoPS.png",RÁDIO A TARDE FM
+http://sh.upx.com.br:8120/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/zeBM64i.png",RADIO BAND 96.1 FM SP
+https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SPAAC.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/FxIoiYv.png",RÁDIO IND FM - ESTÚDIO AO VIVO
+http://148.72.155.138:1935/indfm/indfm/playlist.m3u8
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/mj5tCiz.png",RÁDIO  98 FM  - ESTÚDIO AO VIVO
+https://5a57bda70564a.streamlock.net/98fmsantos/98fmsantos.sdp/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/QV19E25.png",RÁDIO MIRANTE AM
+https://cdn.jmvstream.com/w/LVW-8732/LVW8732_QzFqLP2V3J/playlist.m3u8
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/QXrUsA3.png",RADIO NOVA FM RECIFE
+https://player.voxhd.com.br/proxy/7690?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/fLpmyU2.png",RADIO NEW LIFE FM
+https://59f2354c05961.streamlock.net:1443/newlife/_definst_/newlife/chunklist_w1131346447.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/wjlaDaU.png",RÁDIO FM O DIA - ESTÚDIO AO VIVO
+https://fmodia.cdn.upx.com/omms9/myStream.sdp/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/wjlaDaU.png",RÁDIO 100.5 FM O DIA
+http://streaming.livespanel.com:20000/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/kKyQZu8.png",RADIO BOM DIA FEIRA
+https://casthttps.suaradionanet.net/10823/stream
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/Gmym6Ty.png",RADIO CBN GRANDES LAGOS 90.9 FM
+http://stm10.conectastm.com:8276/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/qLg1cOJ.png",RADIO CASTRO ALVES 94.7 FM
+http://r13.ciclano.io:8338/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/Rw623lH.jpg",RADIO JOVEM PAN NEWS - SANTOS AM 590
+https://playerservices.streamtheworld.com/api/livestream-redirect/JP_NEWSAAC.aac?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/2zJDeES.png",RADIO JOVEM PAN NEWS
+https://17483.live.streamtheworld.com/JP_NEWSAAC.aac?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/48Xkoyh.png",RADIO CBN JOINVILLE
+https://207809y.ha.azioncdn.net/primary/cbn_joi.sdp/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/KUgglMk.png",RADIO ROMANTICA FM
+https://s11.w3bserver.com/radio/8020/romantica64.aac
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/X6j7t3R.png",RADIO E TV RESENDE WEB
+https://ssl.xcast.com.br:9892//;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/pBFErQW.png",RADIO UNIFM 90.3
+https://cast4.hoost.com.br:20198/stream
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/rz6Uc5q.png",RADIO 102.3 FM
+
+https://liverd102fm.rbsdirect.com.br/primary/ita_poa.sdp/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/fx52izy.png",RADIO VILA BELA 94.3 FM
+https://audio01.stmserver.com/radio/8010/radio?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/vdP47yE.png",RADIO MUNDIAL FM - ESTÚDIO AO VIVO
+https://virtues.es:1936/mundialfmpirassununga/mundialfmpirassununga/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/8BY7Mxl.png",RADIO APUAE 104.9 FM
+https://cast.youngtech.radio.br/radio/8630/radio
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/IhyKtnj.png",RADIO NOVA 107.3 FM - ESTÚDIO AO VIVO
+https://serv3.videovox.pw/jose7674/jose7674/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/6U62hg2.png",RADIO 98 FM CAMPO FORMOSO - ESTÚDIO AO VIVO
+https://5a57bda70564a.streamlock.net/98fmtv/98fmtv.sdp/chunklist_w221469290.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/gLXtM0t.png",RADIO GUARANY 100.3 FM
+https://casthttps.suaradionanet.net/10733/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/OKmyyfp.png",RADIO TAPAJÓS 94.1 FM
+https://player.hstbr.net/tvtapajos?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/WwC3Rul.png",RADIO GLOBO 1100 AM SP
+https://medias.sgr.globo.com/hls/aRGloboRJ/aRGloboSP.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/e8s3GrC.png ",RADIO DIFUSORA 95.3 FM - ESTÚDIO AO VIVO
+https://hls.brasilstream.com.br/live/difusoraamaovivo/difusoraamaovivo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/iDmNyeo.png",RADIO DIFUSORA 98.9 FM - ESTÚDIO AO VIVO
+https://hls.brasilstream.com.br/live/difusorafm/difusorafm/index.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/xgQh5zi.png",RADIO MONTE 96.7 FM - ESTÚDIO AO VIVO
+https://srv02.brasilstream.com.br/live/montefm/montefm/mono.m3u8
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/5Mulj1R.png",JOVEM PAN SALVADOR 91.3 FM
+https://r15.ciclano.io:14351/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/ctKesj2.png",RADIO PAULISTA 99.5 FM
+https://virtues.es:1936/paulista/paulista/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/Hsp1sTC.png",TRANSCONTINENTAL FM
+https://ice.fabricahost.com.br/transcontinentalsp48?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/HJjeGlY.png",RADIO MASSA 98.9 FM
+https://stm01.virtualcast.com.br:8122/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/TuXST06.png",94 ATIVIDADE FM - ESTÚDIO AO VIVO
+https://v8.ciclano.io:1443/anderson/_definst_/anderson/playlist.m3u8
+
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/sFZOU9K.jpg",RÁDIO ATLANTIDA FM JOINVILLE
+http://187809y.ha.azioncdn.net/primary/atl_joi.sdp/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/sFZOU9K.jpg",RADIO ATLANTIDA FM PORTO ALEGRE
+http://liverdatlpoa.rbsdirect.com.br/primary/atl_poa.sdp/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/sFZOU9K.jpg",RADIO ATLANTIDA FM ZONA SUL
+http://liverdatlpel.rbsdirect.com.br/primary/atl_pel.sdp/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/sFZOU9K.jpg",RADIO ATLANTIDA FM BEIRAMAR
+http://liverdatlbeiramar.rbsdirect.com.br/primary/atl_tra.sdp/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/sFZOU9K.jpg",RADIO ATLANTIDA FM SANTA CRUZ
+http://liverdatlsc.rbsdirect.com.br/primary/atl_scr.sdp/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/sFZOU9K.jpg",RADIO ATLANTIDA FM PASSO FUNDO
+http://liverdatlpf.rbsdirect.com.br/primary/atl_pfu.sdp/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/sFZOU9K.jpg",RADIO ATLANTIDA FM SANTA MARIA
+http://liverdatlsm.rbsdirect.com.br/primary/atl_sma.sdp/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/sFZOU9K.jpg",RADIO ATLANTIDA FM CAXIAS
+http://liverdatlcx.rbsdirect.com.br/primary/atl_cxs.sdp/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/sFZOU9K.jpg",RADIO ATLANTIDA FM CRICIUMA
+http://177809y.ha.azioncdn.net/primary/atl_cri.sdp/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/sFZOU9K.jpg",RADIO ATLANTIDA FM BLUMENAU
+http://147809y.ha.azioncdn.net/primary/atl_blu.sdp/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/sFZOU9K.jpg",RADIO ATLANTIDA FM CHAPECÓ
+http://157809y.ha.azioncdn.net/primary/atl_cha.sdp/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/sFZOU9K.jpg",RADIO ATLANTIDA FM FLORIANOPOLIS
+http://167809y.ha.azioncdn.net/primary/atl_fln.sdp/playlist.m3u8?ALPHA_PLAY
+
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/8Y7Rsim.png",RADIO TOM FM
+https://01.bitstreaming.info:9206/;
 
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/MjdlD1l.png",RÁDIO 92 FM
 https://liverd92fm.rbsdirect.com.br/primary/92fm.sdp/playlist.m3u8?ALPHA_PLAY
@@ -618,10 +1262,10 @@ https://stmv1.srvstm.com/povofsa/povofsa/playlist.m3u8
 https://player.transmissaodigital.com/proxy/7316
 
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/LHi3OlX.png",SOCIEDADE NEWS FM
-https://appradio.app:8166/live
+http://148.72.158.239:8166/live
 
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/AQ9R3VS.png",SOCIEDADE FM
-https://play.sintonizar.radio.br/7022/stream
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/AQ9R3VS.png",SOCIEDADE AM 740
+https://painel.sintonizar.tv.br:7022/stream
 
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/hFRAhhw.png",MGT SERTANEJA
 https://cast.mgtradio.net/radio/8000/aac
@@ -640,10 +1284,6 @@ https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/Phxni9U.png",RÁDIO ACORDA CIDADE
 http://servidor25.brlogic.com:8632/live
-
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/wjlaDaU.png",RÁDIO FM O DIA - ESTÚDIO AO VIVO
-http://c2901-slbps-
-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/i9P601U.png",106 SERTANEJA - ESTÚDIO AO VIVO
 https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
@@ -690,7 +1330,7 @@ https://antenaone.crossradio.com.br/stream/2;
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/HpEJBzW.png",LOVE CLASSICS / 1.FM
 http://sc-loveclassic.1.fm:10052/
 
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="http://www.95maisfm.com.br/imagens/logo_vazada.png",95MAISFM
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/qg8WPeZ.png",95 MAIS FM
 http://stm11.conectastm.com:9804/;
 
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/WBMMmLk.png",RÁDIO NOVA ONDA FM
@@ -699,6 +1339,7 @@ https://5a57bda70564a.streamlock.net/novaondafm/novaondafm.sdp/playlist.m3u8
 https://radio.truckers.fm/
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/62gqbLi.png",RÁDIO CANÇÃO NOVA FM
 https://rdfmchp-lh.akamaihd.net/i/rdfmchp_1_0@190586/master.m3u8
+
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/dciLZ2N.png",RÁDIO JB FM 99.9
 https://20823.live.streamtheworld.com/JBFM.mp3
 
@@ -727,9 +1368,9 @@ http://stream.vagalume.fm/hls/1524081924608496/aac.m3u8
 http://streaming.livecenter.com.br:9992/stream/1/
 
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/lxXtG1w.jpg",RÁDIO JOVEM PAN FEIRA
-https://stream1.play.radio.br:8089/glomesjpf/glomesjpf/icecast.audio
+http://glomes.sintonizar.radio.br:8088/glomesjpf/glomesjpf/icecast.audio
 
-#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/xvXUf4G.jpg",RÁDIO ELDORADO 99.5
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/xvXUf4G.jpg",RÁDIO TRANSBRASIL 99.5
 http://glomes.sintonizar.radio.br:8088/glomestfmfs/glomestfmfs/icecast.audio
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/RintZqm.png",RÁDIO NORDESTE 95.3
 http://server15.livecenter.com.br:9988/;
@@ -739,6 +1380,19 @@ https://8454.brasilstream.com.br/mp3
 
 #EXTINF:-1 group-title="WEB TV" tvg-logo="https://imgur.com/BPqwYUG.png",TV SERIES AS PANTERAS
 https://stmv1.srvstm.com/tvserie/tvserie/playlist.m3u8
+
+#EXTINF:-1 group-title="MÚSICA"tvg-logo="https://i.imgur.com/PN82D4K.png",TOPTV
+https://cast.cdnseguro.com:19360/8092/8092.m3u8
+
+#EXTINF:-1 group-title="MÚSICA"tvg-logo="https://i.imgur.com/PN82D4K.png",TOPTV - TV ESTADO
+https://cdn.jmvstream.com/w/AVJ-10205/playlist/playlist.m3u8
+
+#EXTINF:-1 group-title="MÚSICA"tvg-logo="https://i.imgur.com/ndoSBv5.png",RADIO 21
+http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
+
+#EXTINF:-1 group-title="MÚSICA" tvg-logo="https://i.imgur.com/IyYx93X.png", ROCK TV
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8?publisher=83
+
 
 #EXTINF:-1 group-title="MÚSICA" tvg-logo="https://i.imgur.com/wb4URoL.jpg",PORTAL FOXMIX
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
@@ -770,6 +1424,26 @@ https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8
 https://ug1upc1hgb.singularcdn.net.br/NICK_BR_HD/index.m3u8
 #EXTINF:-1 group-title="INFANTIL" tvg-logo="https://i.imgur.com/i0YSxsm.png",NICK JR
 https://ug1upc1hgb.singularcdn.net.br/NICK_JR_BR_HD/video.m3u8
+
+#EXTINF:-1 ,A&E
+https://play.brasiltvweb.com/v3/youshi/m1_PwsKRjIegyASUaYBiH3ou5LT_480p.m3u8?app_ver=10101&session_id=TE8IWsjwt9t8&dev_limit=1&auth_id=63303258_com.global.brasiltvweb&user_id=63303258&app_id=com.global.brasiltvweb&client_ip=45.178.204.50&rst_status=0&dev_id=74caacc3&main_addr=https://play.brasiltvweb.com/v3/youshi/&spared_addr=https://105m3u8.epg-kc.com/v3/youshi/&expired=1645068138&token=0EF40BB4886B25065FA5E265E0D774DF&media_code=m1_PwsKRjIegyASUaYBiH3ou5LT_480p
+
+#EXTINF:-1 ,A&E
+http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8
+#EXTINF:-1 ,A&E
+https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m3u8
+#EXTINF:-1 ,A&E
+https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8
+#EXTINF:-1 ,A&E
+https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_3.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://i.imgur.com/NoIrwvB.png",GHOST TV
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8?ALPHA_PLAY
+
+
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://imgur.com/1Nf2kbP.png",TV SUL BAHIA
+https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w1711981393.m3u8
+
 
 #EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://i.imgur.com/QTQPegy.jpg",TELA VIVA TV
 https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w1508014130.m3u8
@@ -831,14 +1505,6 @@ pbs=23fc816fa98d4dc0bd802e1154fc5b15
 #EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://i.imgur.com/XXXX.png",ESPN Brasil
 https://abr-f.eu-central-1.edge.mycdn.live/eiplus/be5636c6c01057bec95887daaa1fa93a/playlist.m3u8
 
-#EXTINF:-1 ,A&E
-http://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index.m3u8
-#EXTINF:-1 ,A&E
-https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m3u8
-#EXTINF:-1 ,A&E
-https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_2.m3u8
-#EXTINF:-1 ,A&E
-https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_3.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://i.imgur.com/WPIfWzH.png",ARAGUAIA TV (Palmas-TO)
 http://video01.kshost.com.br/mayra5349/mayra5349/playlist.m3u8
@@ -890,16 +1556,17 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 group-title="FILMES" tvg-logo="https://i.imgur.com/RyhX3EB.png",KURIAKOS CINE
 http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
 
+#EXTINF:-1,Espn HD
+http://cdn.srvsgo.gq:8080/pUJ9fn2LaB/AZ3420Vgjk/101
+
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="https://i.imgur.com/3Qg6xQ4.png",ESPN HD
+http://cdn.srvsgo.gq:8080/pUJ9fn2LaB/AZ3420Vgjk/101
+
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="https://i.imgur.com/B4lbcGK.png",COMBATE
 http://str.xcp2p.com:8880/cris052628/s54141/73933
 
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="https://i.imgur.com/ae4f7cQ.png",ALL SPORTS BR
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Jornalismo" tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png",Record News
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-
 
 #EXTINF:-1 group-title="Sem Categoria" tvg-logo="https://i.imgur.com/ejp65zr.png",TV BNO
 http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
