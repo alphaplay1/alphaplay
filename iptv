@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="ALPHA_PLAY_WHATSAPP_7598864-5406" tvg-logo="https://i.imgur.com/gUHg6tk.png",MAIS DE 74 MIL CANAIS
+#EXTINF:-1 group-title="ALPHA_PLAY_WHATSAPP_7598864-5406" tvg-logo="https://i.imgur.com/gUHg6tk.png",MAIS DE 75 MIL CANAIS
 https://i.imgur.com/8JhNCat.mp4?ALPHA_PLAY
 
 #EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/f5k4BNE.png",TV NOVO TEMPO
@@ -235,9 +235,14 @@ https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/d9NQqJw.png",TV ARACATI SD
 https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/MV5M3Fk.png",GLOBO RJ HD
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_655/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/0pMA1rg.png",GLOBO FEIRA HD 1
+https://live-cm-ah-14-37.video.globo.com/d/nl/s/hls-globo-fei/playlist.m3u8?h=0401649375495103674306716492890955025801616Y1-hLLobqMygfC8zeeo9DQ&k=html5&a=F&u=b594425b-c314-44ec-9a03-1873721f78cf
 
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/SzfkaE6.png",FUTURA HD
+https://live-cm-al-13-38.video.globo.com/d/e/s/hls-futura24ha/playlist.m3u8?h=04116493785871106569644164929218715212940756cB4jH5Jk-qEkb-VM1VUeg&k=html5&a=F&u=BR~b594425b-c314-44ec-9a03-1873721f78cf
+
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/0pMA1rg.png",GLOBO FEIRA HD (TESTE)
+https://live-cm-ah-14-37.video.globo.com/d/nl/s/hls-globo-fei/hls-globo-fei_176/playlist.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/JI0O8bS.png",GLOBO NEWS RJ
 http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/playlist.m3u8
 
@@ -257,8 +262,35 @@ https://5b7f3c45ab7c2.streamlock.net:443/8042/8042/playlist.m3u8
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/VCi7G8L.png",WEB RADIO ALPHA GOSPEL
 http://stream.zeno.fm/1x6ghphwarruv?ALPHA_PLAY
 
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/KnFjSUX.png",REDE ALFA ABC
+https://player.voxhd.com.br/proxy/7208?ALPHA_PLAY
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/KnFjSUX.png",REDE ALFA ESTUDIO
+https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/ky5IXa0.png",WEB RADIO SAL DA TERRA
+https://ssl.voxhd.com.br:7292/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/9C2Ysvq.png",REDE DIMENSAO FM
+https://sonicpanel.oficialserver.com/8286/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/JJf5v0U.png",RADIO BAIANO WEB GOSPEL
+https://hts04.kshost.com.br:9684/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/JJf5v0U.png",TV BAIANO WEB
+https://video01.kshost.com.br:4443/antonio2510/antonio2510/chunklist_w850236912.m3u8?ALPHA_PLAY
+
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/YDuQCqK.png",RADIO SUPER FM
 http://servidor32.brlogic.com:8200/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/1ofNOlI.png",RADIO GOSPEL BALUARTE
+https://servidor40-2.brlogic.com:8188/live?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/9C2DkaW.png",MELODIA 106.9 FM CATAGUASES MG
+https://cast4.hoost.com.br:20084/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/DWToDFJ.png",RÁDIO AGIR DE DEUS
+http://stm.voxhd.com.br:7266/stream?ALPHA_PLAY
+
 
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/rzA6q4t.png",REDE FÉ 94.9 FM
 https://redefevideo.opic.live/playlist.m3u8?ALPHA_PLAY
@@ -885,6 +917,9 @@ http://sh.upx.com.br:8120/stream?ALPHA_PLAY
 
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/XQ033R6.png",RÁDIO FAN 99.7 FM
 http://69.30.202.98:7114/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/KZJSOAq.png",RADIO PATOS 87.9 FM
+https://stm51.srvstm.com:11422/stream
 
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/zeBM64i.png",RADIO BAND 96.1 FM SP
 https://playerservices.streamtheworld.com/api/livestream-redirect/BANDFM_SPAAC.m3u8?ALPHA_PLAY
