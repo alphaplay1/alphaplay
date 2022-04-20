@@ -9,6 +9,10 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?ALPHA_P
 https://stmv1.srvif.com/redegospelbrasil/redegospelbrasil/playlist.m3u8?ALPHA_PLAY
 
 
+#EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/KnFjSUX.png",REDE ALFA TV
+https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8?ALPHA_PLAY
+
+
 #EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/D2zt3sE.png",TV AVIVANDO NAÇÕES
 https://video02.kshost.com.br/edinardo2448/edinardo2448/playlist.m3u8?ALPHA_PLAY
 
@@ -242,7 +246,7 @@ https://live-cm-ah-14-37.video.globo.com/d/nl/s/hls-globo-fei/playlist.m3u8?h=04
 https://live-cm-al-13-38.video.globo.com/d/e/s/hls-futura24ha/playlist.m3u8?h=04116493785871106569644164929218715212940756cB4jH5Jk-qEkb-VM1VUeg&k=html5&a=F&u=BR~b594425b-c314-44ec-9a03-1873721f78cf
 
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/0pMA1rg.png",GLOBO FEIRA HD (TESTE)
-https://live-cm-ah-14-37.video.globo.com/d/nl/s/hls-globo-fei/hls-globo-fei_176/playlist.m3u8
+https://live-ancdn-06.video.globo.com/d/nl/s/hls-globo-fei/playlist.m3u8?h=0401649382905991354980416492965055400063524yqelqZ0h05lpOHBftKF_8w&k=html5&a=F&u=b594425b-c314-44ec-9a03-1873721f78cf
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/JI0O8bS.png",GLOBO NEWS RJ
 http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/playlist.m3u8
 
@@ -264,8 +268,9 @@ http://stream.zeno.fm/1x6ghphwarruv?ALPHA_PLAY
 
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/KnFjSUX.png",REDE ALFA ABC
 https://player.voxhd.com.br/proxy/7208?ALPHA_PLAY
-#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/KnFjSUX.png",REDE ALFA ESTUDIO
-https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/P6O3vFP.png",VOO LIVRE FM
+https://stream.zeno.fm/nkggqp35qnruv?ALPHA_PLAY
 
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/ky5IXa0.png",WEB RADIO SAL DA TERRA
 https://ssl.voxhd.com.br:7292/stream?ALPHA_PLAY
@@ -914,6 +919,9 @@ http://radiostream01.radiomaanaim.com.br:1935/liverm/rmaac/playlist.m3u8?ALPHA_P
 
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/eYtGoPS.png",RÁDIO A TARDE FM
 http://sh.upx.com.br:8120/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/98FkOzn.png",RADIO VILLA MIX
+http://centova16.ciclanohost.com.br:9627/stream?ALPHA_PLAY
 
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/XQ033R6.png",RÁDIO FAN 99.7 FM
 http://69.30.202.98:7114/stream?ALPHA_PLAY
@@ -1597,8 +1605,17 @@ http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
 #EXTINF:-1,Espn HD
 http://cdn.srvsgo.gq:8080/pUJ9fn2LaB/AZ3420Vgjk/101
 
-#EXTINF:-1 group-title="ESPORTE" tvg-logo="https://i.imgur.com/3Qg6xQ4.png",ESPN HD
-http://cdn.srvsgo.gq:8080/pUJ9fn2LaB/AZ3420Vgjk/101
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="https://i.imgur.com/Q1Oj78T.png",ESTADIO TNT SPORTS 2 (TESTE)
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="https://i.imgur.com/Q1Oj78T.png",ESTADIO TNT SPORTS 3
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="https://i.imgur.com/Q1Oj78T.png",ESTADIO TNT SPORTS 4 (TESTE)
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="https://i.imgur.com/Q1Oj78T.png",ESTADIO TNT SPORTS 5 (TESTE)
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="https://i.imgur.com/B4lbcGK.png",COMBATE
 http://str.xcp2p.com:8880/cris052628/s54141/73933
