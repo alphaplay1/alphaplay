@@ -5,16 +5,30 @@ https://i.imgur.com/8JhNCat.mp4?ALPHA_PLAY
 #EXTINF:-1 group-title="AJUDE COM UM PIX DE QUALQUER VALOR" tvg-logo="https://i.imgur.com/gUHg6tk.png",PIX CHAVE TELEFONE 75988645406 
 https://i.imgur.com/8JhNCat.mp4?ALPHA_PLAY
 
+
+#EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/VCi7G8L.png",WEB TV ALPHA GOSPEL
+https://stmv3.voxtvhd.com.br/4900/4900/playlist.m3u8?ALPHA_PLAY
+
 #EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/f5k4BNE.png",TV NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/yiREiSV.png",TV PELAFE.COM
+https://stmv1.srvif.com/pelafe/pelafe/chunklist_w1372096991.m3u8
+
+#EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/yloavtP.png",WEB TV REDENTOR
+https://virtues.es:1936/redentor/redentor/playlist.m3u8?ALPHA_PLAY
 
 #EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/z0L9a7u.png",REDE GOSPEL BRASIL
 https://stmv1.srvif.com/redegospelbrasil/redegospelbrasil/playlist.m3u8?ALPHA_PLAY
 
-
 #EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/KnFjSUX.png",REDE ALFA TV
 https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8?ALPHA_PLAY
 
+#EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/JYzYtF4.png",TV WEB RADIO EBENEZER
+https://streaming03.zas.media:1936/ebenezer/ebenezer/playlist.m3u8
+
+#EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/ztdfNly.png",TV MAIS FAMILIA
+https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
 
 #EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/D2zt3sE.png",TV AVIVANDO NAÇÕES
 https://video02.kshost.com.br/edinardo2448/edinardo2448/playlist.m3u8?ALPHA_PLAY
@@ -88,6 +102,9 @@ http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?ALPHA_PLAY
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/avqzmd5.png",HITS FM TV
 https://stmv1.srvsh.com.br/gilberto5815/gilberto5815/playlist.m3u8?ALPHA_PLAY
 
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/NE55wAs.png",TV CAPITAL
+https://stmv1.srvif.com/rbc/rbc/playlist.m3u8?ALPHA_PLAY
+
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/O8QSWcV.png",TVE BRASIL
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?ALPHA_PLAY
 
@@ -138,6 +155,12 @@ https://cdn-mateus-10454.ciclano.io:1443/mateus-10454/mateus-10454/chunklist_w72
 
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/uqdRj69.png",SBT SERRA DOURADA
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w454851786_b1000000.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/30zh24N.png",SBT TV ARATU
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8?ALPHA_PLAY
+
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/uqdRj69.png",SBT CIDADE 
+https://cdn-cdn-cidade.ciclano.io:1443/cdn-cidade/cdn-cidade/playlist.m3u8
 
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/LXdWjGy.png",SBT TV PARAENSE (PA)
 https://streaming.portaltvparaense.com.br:50176/rtp_live/index.m3u8
@@ -245,16 +268,8 @@ https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/0pMA1rg.png",GLOBO RJ HD
 http://186.227.63.210:5000/live/GLOBORJ/720p.m3u8
 
-#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/0pMA1rg.png",GLOBO RJ
-http://168.205.87.198:8555/live/1499/123456/70.m3u8
-
-#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/SzfkaE6.png",FUTURA HD
-https://live-cm-al-13-38.video.globo.com/d/e/s/hls-futura24ha/playlist.m3u8?h=04116493785871106569644164929218715212940756cB4jH5Jk-qEkb-VM1VUeg&k=html5&a=F&u=BR~b594425b-c314-44ec-9a03-1873721f78cf
-
-#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/0pMA1rg.png",GLOBO FEIRA HD (TESTE)
-https://live-ancdn-06.video.globo.com/d/nl/s/hls-globo-fei/playlist.m3u8?h=0401649382905991354980416492965055400063524yqelqZ0h05lpOHBftKF_8w&k=html5&a=F&u=b594425b-c314-44ec-9a03-1873721f78cf
-#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/JI0O8bS.png",GLOBO NEWS RJ
-http://live.video.globo.com/h/1402196702324012345678915746223249876543210St7g4OJToXerIDT3UieWkw/k/app/a/A/u/anyone/d/s/hls-gnews24ha/playlist.m3u8
+#EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/0pMA1rg.png",GLOBO EPTV CAMPINAS
+https://transcoderchannels.proxy.jotafplay.com.br/videos/EPTV/auto.m3u8?format=auto?ALPHAPLAY
 
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/VlHeBLa.png?1",CAT TVE HD BR
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8?
@@ -272,8 +287,21 @@ https://5b7f3c45ab7c2.streamlock.net:443/8042/8042/playlist.m3u8
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/VCi7G8L.png",WEB RADIO ALPHA GOSPEL
 http://stream.zeno.fm/1x6ghphwarruv?ALPHA_PLAY
 
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/5xAA6s1.png",RADIO ESTAÇAO GOSPEL FLORIANO PI
+http://stm2.lscpainel.com.br:7070/;?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/1sxFIPc.png",REDE FAM GOSPEL DE COMUNICAÇÃO
+http://stm4.xcast.com.br:9840/stream?ALPHA_PLAY
+
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/KnFjSUX.png",REDE ALFA ABC
 https://player.voxhd.com.br/proxy/7208?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/2kJicDD.png",RADIO VIDA COM FÉ
+https://player-ssl.kshost.com.br:9060/live/;listen.mp3
+
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/I7BtuiX.png",RADIO LOUVOR DO ALTO
+https://s08.w3bserver.com/radio/8280/radio.mp3
 
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/P6O3vFP.png",VOO LIVRE FM
 https://stream.zeno.fm/nkggqp35qnruv?ALPHA_PLAY
@@ -325,9 +353,6 @@ http://stream.zeno.fm/pf4y0um7ya0uv?ALPHA_PLAY
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/1wA6c0H.png",RADIO TAPAJÓS GOSPEL
 https://ssl.lscpainel.com.br:7688/stream?ALPHA_PLAY
 
-#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/5xAA6s1.png",RADIO ESTAÇAO GOSPEL FLORIANO PI
-http://stm2.lscpainel.com.br:7070/;?ALPHA_PLAY
-
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/MJVbT9I.png",RADIO MUSICAL FM 105.7 SP
 https://9176.brasilstream.com.br/stream?ALPHA_PLAY
 
@@ -345,9 +370,6 @@ http://server02.ouvir.radio.br:8070/stream?ALPHA_PLAY
 
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/GybTnWR.png",NOVA RADIO SAN FM
 https://ssl.voxhd.com.br:7862/stream?ALPHA_PLAY
-
-#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/hRNgZnk.png",RADIO NOVA SEMENTE
-http://streaming20.hstbr.net:8142/live?ALPHA_PLAY
 
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/kZeqetI.png",RADIO NOVA SIÃO DIGITAL
 http://216.245.220.173:8140/live?ALPHA_PLAY
@@ -569,9 +591,6 @@ https://sonic.lestetronics.com.br:7003/;?ALPHA_PLAY
 
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/O05EtsX.png",RADIO STUDIO GOSPEL
 https://player-ssl.kshost.com.br:11574/live
-
-#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/1sxFIPc.png",REDE FAM GOSPEL DE COMUNICAÇÃO
-http://stm4.xcast.com.br:9840/stream?ALPHA_PLAY
 
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/7A7iE6N.png",RADIO PLANET GOSPEL
 https://radio.playstm.com:7020/;?ALPHA_PLAY
@@ -925,6 +944,12 @@ http://radiostream01.radiomaanaim.com.br:1935/liverm/rmaac/playlist.m3u8?ALPHA_P
 
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/eYtGoPS.png",RÁDIO A TARDE FM
 http://sh.upx.com.br:8120/stream?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/CIQeumZ.png",RÁDIO SUPRA FM
+http://rtmp.cdn.upx.net.br/00079/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/zg43oYW.png",RADIO Q FM - ESTÚDIO AO VIVO
+https://qfm.ddns.net/hlsq/index.m3u8
 
 #EXTINF:-1 group-title="RÁDIOS" tvg-logo="https://i.imgur.com/hKTMyEd.png",RÁDIO RECÔNCAVO FM
 http://rtmp.cdn.upx.net.br/d684/myStream.sdp/playlist.m3u8?ALPHA_PLAY
@@ -1521,18 +1546,17 @@ https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_3.m
 #EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://i.imgur.com/v9HyxD5.png",SPACE
 https://pekchannels.proxy.jotafplay.com.br/Space/tracks-v1a1/mono.m3u8?token=2yTiEwT8EueJrNj3JOTAFZ
 
-#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://i.imgur.com/YgQMqdO.png",TNT
-https://pekchannels.proxy.jotafplay.com.br/TNT/index.m3u8?token=2yTiEwT8EueJrNj3JOTAFZ
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://i.imgur.com/wzyhUh8.png",TELECINE ACTION
+http://189.91.128.146:4444/udp/227.10.20.135:1234
+
+#EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://i.imgur.com/IhKtjqw.png",AGROBRASIL TV HD
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://i.imgur.com/NoIrwvB.png",GHOST TV
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8?ALPHA_PLAY
 
-
-
-
 #EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://imgur.com/1Nf2kbP.png",TV SUL BAHIA
 https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w1711981393.m3u8
-
 
 #EXTINF:-1 group-title="VARIEDADES" tvg-logo="https://i.imgur.com/QTQPegy.jpg",TELA VIVA TV
 https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w1508014130.m3u8
@@ -1645,47 +1669,21 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 group-title="FILMES" tvg-logo="https://i.imgur.com/RyhX3EB.png",KURIAKOS CINE
 http://c2.manasat.com:1935/kcine/kcine3/playlist.m3u8
 
-#EXTINF:-1 group-title="FILMES" tvg-logo="https://i.imgur.com/g4TEG1Q.png",TELECINE PREMIUM
-http://189.91.128.146:4444/udp/227.10.20.134:1234
-
-#EXTINF:-1 tvg-id="TELECINE ACTION" tvg-logo="http://crawler.mdcgate.com/iptv/logo/471.png" group-title="FILMES E SÉRIES",TELECINE ACTION
-http://189.91.128.146:4444/udp/227.10.20.135:1234
-#EXTINF:-1 tvg-id="CANAL BRASIL" tvg-logo="http://crawler.mdcgate.com/iptv/logo/23044.png" group-title="FILMES E SÉRIES",CANAL BRASIL
-http://50.7.34.155:2200/BR/Canal_Brasil_HD-br/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="A&E HD" tvg-logo="http://dns.jserverstv.ml:80/images/8f513a3b55911d5e57431bea8780363f.png" group-title="FILMES E SÉRIES",A&E HD
-http://solutionplay.xyz:8080/techruthes/10987658/6427
-#EXTINF:-1 tvg-id="STAR CHANNEL" tvg-logo="http://static.bldn.vip/logos/filmeseseries/starchannel.png" group-title="FILMES E SÉRIES",STAR CHANNEL
-http://solutionplay.xyz:8080/techruthes/10987658/6439
-#EXTINF:-1 tvg-id="AMC SD" tvg-logo="http://dns.jserverstv.ml:80/images/7c52ed5b8820b7dfd90b5a784bac64b3.png" group-title="FILMES E SÉRIES",AMC SD
-http://dns.blackouthd.xyz:80/blogue79/super810532/173113
-#EXTINF:-1 tvg-id="AXN HD" tvg-logo="http://dns.jserverstv.ml:80/images/042dba4d2faaa29cd2fa4c0125416d25.png" group-title="FILMES E SÉRIES",AXN HD
-http://dns.blackouthd.xyz:80/blogue79/super810532/173114
-#EXTINF:-1 tvg-id="HBO HD" tvg-logo="http://crawler.mdcgate.com/iptv/logo/450.png" group-title="FILMES E SÉRIES",HBO
-http://189.91.128.146:4444/udp/227.10.20.94:1234
-#EXTINF:-1 tvg-id="HBO 2" tvg-logo="http://crawler.mdcgate.com/iptv/logo/403814.png" group-title="FILMES E SÉRIES",HBO 2
-http://189.91.128.146:4444/udp/227.10.20.95:1234
-#EXTINF:-1 tvg-id="HBO+" tvg-logo="https://1.bp.blogspot.com/-IaVubC3e0w4/Xk70YuLghmI/AAAAAAAACFc/dfLAePYpBlwPazBj_MIh10M25XiQDMIpgCLcBGAsYHQ/s1600/hboplus.png" group-title="FILMES E SÉRIES",HBO+ HD
-http://solutionplay.xyz:8080/techruthes/197850/6493
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="http://crawler.mdcgate.com/iptv/logo/551983.png" group-title="FILMES E SÉRIES",HBO SIGNATURE
-http://189.91.128.146:4444/udp/227.10.20.158:1234
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="http://crawler.mdcgate.com/iptv/logo/1341.png" group-title="FILMES E SÉRIES",HBO FAMILY
-http://189.91.128.146:4444/udp/227.10.20.157:1234
-#EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="http://img.myapp.st/1581121936_50a3f7c503b77778d785e90df0145c8fd76d1152.jpg" group-title="FILMES E SÉRIES",HBO MUNDI
-http://50.7.34.155:2200/BR/HBO_MUNDI_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="FILMES E SÉRIES",HBO XTREME
-http://189.91.128.146:4444/udp/227.10.20.100:1234
-#EXTINF:-1 tvg-id="TCM FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="FILMES E SÉRIES",TCM FHD
-http://solutionplay.xyz:8080/techruthes/197850/6491
-#EXTINF:-1 tvg-id="Warner Channel HD" tvg-logo="https://1.bp.blogspot.com/-op011tmRIXQ/Xk70oGwc0-I/AAAAAAAACH8/Pf3FY0ON8Ic7PXZDKBtbiGbLJU4imuV4wCLcBGAsYHQ/s1600/warnerchannel.png" group-title="FILMES E SÉRIES",WARNER CHANNEL HD
-http://solutionplay.xyz:8080/techruthes/197850/6486
-#EXTINF:-1 tvg-id="MEGAPIX HD" tvg-logo="https://1.bp.blogspot.com/-KYJNJ8ofZhQ/Xk70bsae15I/AAAAAAAACF4/bu4pFKpyK3I802HKsQJEP4f8S7_KLRUXgCLcBGAsYHQ/s1600/megapix.png" group-title="FILMES E SÉRIES",MEGAPIX HD
-http://solutionplay.xyz:8080/techruthes/197850/6457
-
-#EXTINF:-1,Espn HD
-http://cdn.miptv.ws:8880/yztbz/cojdzn/850
 
 #EXTINF:-1 group-title="ESPORTE" tvg-logo="https://i.imgur.com/Q1Oj78T.png",ESTADIO TNT SPORTS (TESTE)
 http://cdn.miptv.ws:8880/yztbz/cojdzn/14649
+
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="https://i.imgur.com/Gq8Xsax.png",ESPN3
+https://pekchannels.proxy.jotafplay.com.br/ESPN2/index.m3u8?token=2yTiEwT8EueJrNj3JOTAFZ?ESPN3?ALPHAPLAY
+
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="https://i.imgur.com/buKu5vM.png",ESPN
+https://pekchannels.proxy.jotafplay.com.br/ESPN_Brasil/index.m3u8?token=2yTiEwT8EueJrNj3JOTAFZ?ALPHAPLAY
+
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="https://i.imgur.com/buKu5vM.png",ESPN
+http://cdn.miptv.ws:8880/yztbz/cojdzn/850
+
+#EXTINF:-1 group-title="ESPORTE" tvg-logo="https://i.imgur.com/M4DAzAa.png",BANDSPORTS
+https://pekchannels.proxy.jotafplay.com.br/Band_Sports/index.m3u8?token=2yTiEwT8EueJrNj3JOTAFZ?ALPHAPLAY
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/250px-Logo_Premiere_FC_2018.png" group-title="CANAIS",PREMIERE
 http://cdn.miptv.ws:8880/yztbz/cojdzn/5455
