@@ -1,19 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="ALPHA_PLAY_WHATSAPP_7598864-5406" tvg-logo="https://i.imgur.com/gUHg6tk.png",MAIS DE 76 MIL CANAIS
-https://i.imgur.com/8JhNCat.mp4?ALPHA_PLAY
-
-#EXTINF:-1 group-title="AJUDE COM UM PIX DE QUALQUER VALOR" tvg-logo="https://i.imgur.com/gUHg6tk.png",PIX CHAVE TELEFONE 75988645406 
-https://i.imgur.com/8JhNCat.mp4?ALPHA_PLAY
-
-
-#EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/VCi7G8L.png",WEB TV ALPHA GOSPEL
-https://stmv3.voxtvhd.com.br/4900/4900/playlist.m3u8?ALPHA_PLAY
 
 #EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/f5k4BNE.png",TV NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?ALPHA_PLAY
-
-#EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/yiREiSV.png",TV PELAFE.COM
-https://stmv1.srvif.com/pelafe/pelafe/chunklist_w1372096991.m3u8
 
 #EXTINF:-1 group-title="TV GOSPEL" tvg-logo="https://i.imgur.com/yloavtP.png",WEB TV REDENTOR
 https://virtues.es:1936/redentor/redentor/playlist.m3u8?ALPHA_PLAY
@@ -284,8 +272,11 @@ https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w3
 #EXTINF:-1 group-title="TV ABERTA" tvg-logo="https://i.imgur.com/kiVk4Gk.jpg",TV RP
 https://5b7f3c45ab7c2.streamlock.net:443/8042/8042/playlist.m3u8
 
-#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/VCi7G8L.png",WEB RADIO ALPHA GOSPEL
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/VCi7G8L.png",REDE ALPHA GOSPEL
 http://stream.zeno.fm/1x6ghphwarruv?ALPHA_PLAY
+
+#EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/yiREiSV.png",RADIO PELAFE.COM
+https://stm12.xcast.com.br:8928/;
 
 #EXTINF:-1 group-title="RÁDIOS GOSPEL" tvg-logo="https://i.imgur.com/5xAA6s1.png",RADIO ESTAÇAO GOSPEL FLORIANO PI
 http://stm2.lscpainel.com.br:7070/;?ALPHA_PLAY
